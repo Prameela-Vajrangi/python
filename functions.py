@@ -1,4 +1,5 @@
-def greet():
-    print("Hello Prameela")
+def add(a, b):
+    result = a + b
+    print(result)
 
-greet()
+add(10, 20)
