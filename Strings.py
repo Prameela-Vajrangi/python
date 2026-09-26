@@ -1,5 +1,6 @@
-name = "Prameela"
+first_name = "Prameela"
+last_name = "Vajrangi"
 
-print(name.upper())
-print(name.lower())
-print(len(name)
+full_name = first_name + " " + last_name
+
+print(full_name)
