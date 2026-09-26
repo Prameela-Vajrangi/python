@@ -1,5 +1,6 @@
 def add(a, b):
     result = a + b
-    print(result)
+    return result
 
-add(10, 20)
+answer = add(10, 20)
+print(answer)
