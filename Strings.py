@@ -1,5 +1,5 @@
 name = "Prameela"
-city = "Kakinada"
 
-print(name)
-print(city
+print(name.upper())
+print(name.lower())
+print(len(name)
